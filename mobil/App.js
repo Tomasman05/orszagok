@@ -1,3 +1,12 @@
+/*
+* File: App.java
+* Author: Vitovszki Tamás
+* Copyright: 2024, Vitovszki Tamás
+* Group: Szoft V
+* Date: 2024-03-13
+* Github: https://github.com/Tomasman05/orszagok
+* Licenc: GNU GPL
+*/
 import React, { useState } from 'react';
 import { ScrollView, Pressable, StyleSheet, Text, View } from 'react-native';
 
